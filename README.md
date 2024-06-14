@@ -9,3 +9,6 @@ We also added our Processing code used with a Kinect that allows us to track pos
 Special thanks for 
 
 Diego Suarez for the Processing Kinect Cenital Camera code.
+And Xavi Manzares for the Pure Data OSC Code.
+
+All other are credited on their respective files.
